@@ -28,14 +28,16 @@ In this process we cnvert the upper case letters to lower cases. This opertation
 
 It is used to find the root of a particular word. Say for instance "Strong" this word can be used in sentence in various forms like "Stronger" or "Strongest". Again in order to reduce the unecerry operations we can covert all this words into their base form which is "Strong" 
 
-**Removing unwanted words(The, of, is, and etc ). **
+**Removing unwanted words(The, of, is, and etc ).**
 
 The meaning of the sentence can be fairly unstood by the main words of the sentence which are essentially the crux if the sentence. this can be illustrated by the example below. 
 Before:  Taj mahal is beautiful place
 After:   Taj mahal beauty place
 The words like "Is", "and", "The" are unecessay during understanding the essence of a sentence thus can be ignored. 
 
-**Word Tokenization**
+**Word Tokenization.**
 
-In this step we give every word in dataset a token. Thus whenever a sentence has perticuler word the respective cell is set. 
+In this step we give every word in dataset a token. Thus whenever a sentence has perticuler word the respective cell is set.
+
+
 
